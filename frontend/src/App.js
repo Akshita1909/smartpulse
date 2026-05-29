@@ -6,7 +6,7 @@ import {
   LineChart, Line, PieChart, Pie, Cell, ResponsiveContainer
 } from "recharts";
 
-const API = "http://localhost:8000";
+const API = "https://smartpulse-rrr3.onrender.com";
 const COLORS = ["#58a6ff", "#a371f7", "#3fb950", "#f78166", "#d29922", "#79c0ff"];
 
 export default function App() {
